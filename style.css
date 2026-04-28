@@ -1,0 +1,18 @@
+body {
+            background-image: url('back.jpg');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+        }
+
+        h2{
+            color: brown;background-color: black;
+        }
+ p{
+    color: rgb(85, 77, 77);
+    background-color: rgb(136, 194, 194);
+ }
+ ul{
+    color: yellow;
+    background-color: silver;
+ }
